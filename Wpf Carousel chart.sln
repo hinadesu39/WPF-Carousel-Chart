@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf Carousel chart", "Wpf Carousel chart\Wpf Carousel chart.csproj", "{62323B47-262A-4E57-8CBA-861F19C0AAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62323B47-262A-4E57-8CBA-861F19C0AAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62323B47-262A-4E57-8CBA-861F19C0AAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62323B47-262A-4E57-8CBA-861F19C0AAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62323B47-262A-4E57-8CBA-861F19C0AAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A35E7F2C-BF22-44B1-8734-687456102BFC}
+	EndGlobalSection
+EndGlobal
