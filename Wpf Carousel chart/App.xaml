@@ -45,7 +45,8 @@
                     <ControlTemplate TargetType="ListBoxItem">
                         <Grid Width="1024"
                               Height="640">
-                            <Image Source="{Binding}" />
+                            <Image Source="{Binding}"
+                                   RenderOptions.BitmapScalingMode="Fant"/>
                             <Rectangle Width="1024"
                                        Height="100"
                                        VerticalAlignment="Bottom"
